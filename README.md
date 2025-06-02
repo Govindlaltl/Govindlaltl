@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Improving backend skills, deployment, and building scalable apps**
 
-- 👨‍💻 All of my projects are available at [github.com/Govindlaltl](github.com/Govindlaltl)
+- 👨‍💻 All of my projects are available at [https://github.com/govindlaltl](https://github.com/govindlaltl)
 
 - 💬 Ask me about **Full stack development, how to get started as a beginner, writing clean code, or organizing projects on GitHub**
 
