@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development Projects**
 
-- 🌱 I’m currently learning **Full stack development — focusing on React.js, Express.js, MongoDB, REST APIs, and GitHub workflows**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👯 I’m looking to collaborate on **Full stack mini-projects or web-based student tools**
 
@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindlaltl&show_icons=true&locale=en&layout=compact" alt="govindlaltl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindlaltl&show_icons=true&locale=en" alt="govindlaltl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindlaltl&" alt="govindlaltl" /></p>
