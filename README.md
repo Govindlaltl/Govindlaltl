@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindlaltl" alt="govindlaltl" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development Projects**
+- 🔭 I’m currently working on **Full Stack Development Projects, with a current focus on frontend development.**
 
 - 🌱 I’m currently learning **Full stack development**
 
@@ -31,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindlaltl&show_icons=true&locale=en&layout=compact" alt="govindlaltl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindlaltl&show_icons=true&locale=en" alt="govindlaltl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=govindlaltl&" alt="govindlaltl" /></p>
